@@ -1,0 +1,22 @@
+{
+    "hijazeebinaltaf@gmail.com": {
+        "name": "hejazee bin altaf",
+        "password": "1234A@23qq",
+        "phone": "1234567890",
+        "address": "srinagar",
+        "dob": "69696969",
+        "gender": "m",
+        "aadhaar": "123456781234",
+        "account_number": 7360980810,
+        "account_type": "Savings",
+        "balance": 11222,
+        "pin": 1234,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 1222,
+                "time": "2026-04-22 15:32:12.314367"
+            }
+        ]
+    }
+}
