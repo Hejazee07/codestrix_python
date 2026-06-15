@@ -1,6 +1,5 @@
 from abstract import IBank
 
-
 class Savings(IBank):
     def type_of_account(self):
         return "Savings Account"

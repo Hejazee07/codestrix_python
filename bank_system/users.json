@@ -9,14 +9,68 @@
         "aadhaar": "123456781234",
         "account_number": 7360980810,
         "account_type": "Savings",
-        "balance": 11222,
+        "balance": 12122,
         "pin": 1234,
         "transactions": [
             {
                 "type": "Deposit",
                 "amount": 1222,
                 "time": "2026-04-22 15:32:12.314367"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 100,
+                "time": "2026-04-23 11:47:14.645051"
+            },
+            {
+                "type": "Deposit",
+                "amount": 1000,
+                "time": "2026-04-23 11:47:35.387546"
             }
         ]
+    },
+    "adnan11@gmail.com": {
+        "name": "adnan",
+        "password": "Adnan@1234",
+        "phone": "1234557890",
+        "address": "rangreth",
+        "dob": "xd",
+        "gender": "m",
+        "aadhaar": "123443211234",
+        "account_number": 1207237956,
+        "account_type": "Current",
+        "balance": 999766,
+        "pin": 1234,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 1999,
+                "time": "2026-04-23 11:34:46.739212"
+            },
+            {
+                "type": "Withdraw",
+                "amount": 12233,
+                "time": "2026-04-23 11:35:04.452902"
+            },
+            {
+                "type": "Deposit",
+                "amount": 1000000,
+                "time": "2026-04-23 11:35:27.847475"
+            }
+        ]
+    },
+    "safan@gmail.com": {
+        "name": "Safan Dar",
+        "password": "Ali1234@",
+        "phone": "1234567890",
+        "address": "llllllllllllllll",
+        "dob": 9092002,
+        "gender": "m",
+        "aadhaar": "123443211234",
+        "account_number": 9050717723,
+        "account_type": "Savings",
+        "balance": 10000,
+        "pin": 1123,
+        "transactions": []
     }
 }

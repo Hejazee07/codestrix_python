@@ -72,7 +72,7 @@ class NewUser(User):
             print("Invalid phone number")
 
         address = input("Enter address: ")
-        dob = input("Enter DOB: ")
+        dob = int(input("Enter DOB: "))
         gender = input("Enter gender: ")
 
         while True:
